@@ -99,4 +99,4 @@ This project is open-source. Check the `LICENSE` file for details.
 
 <img src="https://drive.google.com/uc?export=view&id=1f7u09oy_9UU7ZLqrZ9t-B_sko2xul_Yi" alt="Image 2" width="600">
 
-<img src="https://drive.google.com/uc?export=view&id=1qsRDwxBSw75gPYbF6D_SAS5X8TWH7BY9" alt="Image 3" width="600">
+<img src="https://drive.google.com/uc?export=view&id=1IF2LNz0Z5LGRspufs1kisLEgS_BYmvQK" alt="Image 3" width="600">
